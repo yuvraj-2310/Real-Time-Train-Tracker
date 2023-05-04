@@ -1,6 +1,6 @@
 # Real-Time-Train-Tracker-INDIA
 
-Website Link:https://github.com/yuvraj-2310/Real-Time-Train-Tracker/upload
+Website Link:https://github.com/yuvraj-2310/Real-Time-Train-Tracker
 (This website is responsive also)
 
 API link: https://rapidapi.com/IRCTCAPI/api/irctc1/
